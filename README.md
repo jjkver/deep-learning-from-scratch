@@ -24,8 +24,6 @@
 
 ※ Python은 3 버전을 이용합니다.
 
-## 실행 방법
-
 ## 라이선스
 
 이 저장소의 소스 코드는 [MIT 라이선스](http://www.opensource.org/licenses/MIT)를 따릅니다.
